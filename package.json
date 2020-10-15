@@ -1,0 +1,24 @@
+{
+  "name": "netlify-plugin-image-optim-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdwheatley/netlify-plugin-image-optim-test.git"
+  },
+  "keywords": [],
+  "author": "Chris Draycott-Wheatley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisdwheatley/netlify-plugin-image-optim-test/issues"
+  },
+  "homepage": "https://github.com/chrisdwheatley/netlify-plugin-image-optim-test#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "netlify-plugin-image-optim": "^0.4.0"
+  }
+}
